@@ -1,0 +1,27 @@
+<aiml version="1.0">
+    <category>
+        <pattern>LOAD AIML B</pattern>
+        <template>
+           
+              <learn>hi.aiml</learn>
+              <learn>dosen.aiml</learn>
+              <learn>kp.aiml</learn>
+              <learn>magang.aiml</learn>
+              <learn>infooo.aiml</learn>
+              <learn>skripsi.aiml</learn>
+              <learn>baruuu.aiml</learn>
+
+        </template>
+    </category>
+
+<category>
+        <pattern>*</pattern>
+        <template>
+            Silahkan ulang kembali pertanyaannya. Jika respon kurang sesuai, coba lagi dengan pertanyaan yang lebih detail dan pastikan tidak ada yang typo ya !! :)
+        </template>
+    </category>
+    
+   
+</aiml>
+
+

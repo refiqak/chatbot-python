@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>   
+
+
+            <category>
+                <pattern>Buku panduan pelaksanaan Tugas Akhir</pattern>
+                <template>Silahkan akses ke https://see.telkomuniversity.ac.id/kelengkapan-ta/</template>
+            </category>
+        
+                <category>
+                    <pattern> informasi buku panduan pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku panduan pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku panduan pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Informasi buku pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi panduan pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info panduan pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>panduan pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi tata cara pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info tata cara pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>tata cara pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi buku tata cara pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku tata cara pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku tata cara pelaksanaan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Informasi tentang kelengkapan Tugas Akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info tentang kelengkapan Tugas Akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>tentang kelengkapan Tugas Akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi kelengkapan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info kelengkapan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>kelengkapan Tugas Akhir  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Buku panduan pelaksanaan tugas akhir  mahasiswa</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi buku panduan pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku panduan pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku panduan pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Informasi buku pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi panduan pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info panduan pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>panduan pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi tata cara pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info tata cara pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>tata cara pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi buku tata cara pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku tata cara pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku tata cara pelaksanaan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Informasi tentang kelengkapan tugas akhir  mahasiswa</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info tentang kelengkapan tugas akhir  mahasiswa</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>tentang kelengkapan tugas akhir  mahasiswa</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi kelengkapan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info kelengkapan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>kelengkapan tugas akhir  mahasiswa </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Buku panduan pelaksanaan tugas akhir  mhs</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi buku panduan pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku panduan pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku panduan pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Informasi buku pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi panduan pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info panduan pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>panduan pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi tata cara pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info tata cara pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>tata cara pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi buku tata cara pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku tata cara pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku tata cara pelaksanaan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Informasi tentang kelengkapan tugas akhir  mhs</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info tentang kelengkapan tugas akhir  mhs</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>tentang kelengkapan tugas akhir  mhs</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi kelengkapan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info kelengkapan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>kelengkapan tugas akhir  mhs </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Buku panduan pelaksanaan tugas akhir  mahasiswa akhir</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi buku panduan pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku panduan pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku panduan pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Informasi buku pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi panduan pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info panduan pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>panduan pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi tata cara pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info tata cara pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>tata cara pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi buku tata cara pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku tata cara pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku tata cara pelaksanaan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Informasi tentang kelengkapan tugas akhir  mahasiswa akhir</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info tentang kelengkapan tugas akhir  mahasiswa akhir</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>tentang kelengkapan tugas akhir  mahasiswa akhir</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi kelengkapan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info kelengkapan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>kelengkapan tugas akhir  mahasiswa akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Buku panduan pelaksanaan tugas akhir  mhs akhir</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi buku panduan pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku panduan pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku panduan pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Informasi buku pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi panduan pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info panduan pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>panduan pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi tata cara pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info tata cara pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>tata cara pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi buku tata cara pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku tata cara pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku tata cara pelaksanaan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Informasi tentang kelengkapan tugas akhir  mhs akhir</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info tentang kelengkapan tugas akhir  mhs akhir</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>tentang kelengkapan tugas akhir  mhs akhir</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi kelengkapan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info kelengkapan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>kelengkapan tugas akhir  mhs akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Buku panduan pelaksanaan tugas akhir  mahasiswa tingkat akhir</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi buku panduan pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku panduan pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku panduan pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Informasi buku pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi panduan pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info panduan pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>panduan pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi tata cara pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info tata cara pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>tata cara pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi buku tata cara pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku tata cara pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku tata cara pelaksanaan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Informasi tentang kelengkapan tugas akhir  mahasiswa tingkat akhir</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info tentang kelengkapan tugas akhir  mahasiswa tingkat akhir</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>tentang kelengkapan tugas akhir  mahasiswa tingkat akhir</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi kelengkapan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info kelengkapan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>kelengkapan tugas akhir  mahasiswa tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Buku panduan pelaksanaan tugas akhir  mhs tingkat akhir</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi buku panduan pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku panduan pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku panduan pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Informasi buku pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi panduan pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info panduan pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>panduan pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi tata cara pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info tata cara pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>tata cara pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi buku tata cara pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku tata cara pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku tata cara pelaksanaan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Informasi tentang kelengkapan tugas akhir  mhs tingkat akhir</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info tentang kelengkapan tugas akhir  mhs tingkat akhir</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>tentang kelengkapan tugas akhir  mhs tingkat akhir</pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi kelengkapan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info kelengkapan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>kelengkapan tugas akhir  mhs tingkat akhir </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Buku panduan pelaksanaan tugas akhir  mahasiswa semester 8 </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi buku panduan pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku panduan pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku panduan pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Informasi buku pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi panduan pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info panduan pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>panduan pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi tata cara pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info tata cara pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>tata cara pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi buku tata cara pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info buku tata cara pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>buku tata cara pelaksanaan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>Informasi tentang kelengkapan tugas akhir  mahasiswa semester 8 </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info tentang kelengkapan tugas akhir  mahasiswa semester 8 </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>tentang kelengkapan tugas akhir  mahasiswa semester 8 </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>informasi kelengkapan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>info kelengkapan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+                <category>
+                    <pattern>kelengkapan tugas akhir  mahasiswa semester 8  </pattern>
+                    <template>
+                        <srai>Buku panduan pelaksanaan Tugas Akhir</srai>
+                    </template>
+                </category>
+                
+
+</aiml> 
