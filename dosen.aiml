@@ -8,7 +8,7 @@
 
             <category>
                 <pattern>Kode dosen</pattern>
-                <template> Silakan akses ke https://see.telkomuniversity.ac.id/sk-pengajaran/#1634805123522-14d0d2ab-ef0b >  klik SK Pengajaran sesuai tahun dan jurusan yang ingin diketahui</template>
+                <template>Informasi mengenai Kode Dosen silahkan akses ke https://see.telkomuniversity.ac.id/sk-pengajaran/#1634805123522-14d0d2ab-ef0b > klik sk pengajaran sesuai tahun dan jurusan yang ingin diketahui</template>
             </category>
         
                 <category>
@@ -1504,7 +1504,7 @@
                 
             <category>
                 <pattern>Nama dosen</pattern>
-                <template> Silakan akses ke https://see.telkomuniversity.ac.id/sk-pengajaran/#1634805123522-14d0d2ab-ef0b > klik SK Pengajaran sesuai tahun dan jurusan yang ingin diketahui</template>
+                <template>Untuk menemukan Nama Dosen silahkan akses ke https://see.telkomuniversity.ac.id/sk-pengajaran/#1634805123522-14d0d2ab-ef0b > klik sk pengajaran sesuai tahun dan jurusan yang ingin diketahui</template>
             </category>
         
                 <category>
@@ -2104,7 +2104,7 @@
                 
             <category>
                 <pattern>Nip dosen</pattern>
-                <template> Silakan akses ke https://see.telkomuniversity.ac.id/sk-pengajaran/#1634805123522-14d0d2ab-ef0b  > klik SK Pengajaran sesuai tahun dan jurusan yang ingin diketahui</template>
+                <template>Untuk menemukan NIP Dosen silahkan akses ke https://see.telkomuniversity.ac.id/sk-pengajaran/#1634805123522-14d0d2ab-ef0b > klik SK Pengajaran sesuai tahun dan jurusan yang ingin diketahui</template>
             </category>
         
                 <category>
@@ -3929,7 +3929,7 @@
                 
             <category>
                 <pattern>Kode dosen wali</pattern>
-                <template> Silahkan akses ke https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
+                <template> Informasi mengenai Dosen Wali dapat diakses di https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
             </category>
         
                 <category>
@@ -5131,7 +5131,7 @@
                 
             <category>
                 <pattern>Kode doswal</pattern>
-                <template> Silahkan akses ke https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
+                <template>Informasi mengenai Dosen Wali dapat diakses di https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
             </category>
         
                 <category>
@@ -6333,7 +6333,7 @@
                 
             <category>
                 <pattern>Nama doswal</pattern>
-                <template> Silahkan akses ke https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
+                <template>Informasi mengenai Dosen Wali dapat diakses di https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
             </category>
         
                 <category>
@@ -6933,7 +6933,7 @@
                 
             <category>
                 <pattern>Nip dosen wali</pattern>
-                <template> Silahkan akses ke https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
+                <template> Informasi mengenai Dosen Wali dapat diakses di https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
             </category>
         
                 <category>
@@ -7533,7 +7533,7 @@
                 
             <category>
                 <pattern>Nip doswal</pattern>
-                <template> Silahkan akses ke https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
+                <template>Informasi mengenai Dosen Wali dapat diakses di https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
             </category>
         
                 <category>
@@ -8133,7 +8133,7 @@
                 
             <category>
                 <pattern>Nidn doswal</pattern>
-                <template> Silahkan akses ke https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
+                <template>Informasi mengenai Dosen Wali dapat diakses di https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
             </category>
         
                 <category>
@@ -8733,7 +8733,7 @@
                 
             <category>
                 <pattern>Nidn dosen wali</pattern>
-                <template> Silahkan akses ke https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
+                <template>Informasi mengenai Dosen Wali dapat diakses di https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
             </category>
         
                 <category>
@@ -9333,7 +9333,7 @@
                 
             <category>
                 <pattern>Nupn doswal</pattern>
-                <template> Silahkan akses ke https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
+                <template>Informasi mengenai Dosen Wali dapat diakses di https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
             </category>
         
                 <category>
@@ -9933,7 +9933,7 @@
                 
             <category>
                 <pattern>Nupn dosen wali</pattern>
-                <template> Silahkan akses ke https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
+                <template>Informasi mengenai Dosen Wali dapat diakses di https://see.telkomuniversity.ac.id/sk-dosen-wali/ untuk informasi lebih lanjut</template>
             </category>
         
                 <category>

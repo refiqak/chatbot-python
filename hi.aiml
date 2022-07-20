@@ -8,7 +8,7 @@
    
             <category>
                 <pattern>Informasi Jadwal Mata Kuliah Hari Ini dan Ruangan Kelas</pattern>
-                <template>Silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Registrasi >Jadwal > Jadwal Mahasiswa</template>
+                <template>Untuk mengetahui informasi jadwal mata kuliah yang anda inginkan silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Registrasi > Jadwal > Jadwal Mahasiswa</template>
             </category>
         
                 <category>
@@ -2085,7 +2085,7 @@
 
             <category>
                 <pattern>Informasi Jadwal Ujian Semester</pattern>
-                <template>Silahkan akses ke https://igracias.telkomuniversity.ac.id >  Login menggunakan akun SSO > Registrasi> Jadwal > Jadwal Ujian Mahasiswa</template>
+                <template>Anda bisa mengakses jadwal ujian anda di https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Registrasi > Jadwal > Jadwal Mahasiswa</template>
             </category>
         
                 <category>
@@ -2398,7 +2398,7 @@
                 
             <category>
                 <pattern>Informasi Kuliah Hybrid</pattern>
-                <template>Untuk informasi lebih lengkap mengenai perkuliahan hybrid Untuk informasi lebih lengkap mengenai perkuliahan hybrid silahkan akses ke link https://baa.telkomuniversity.ac.id/pelaksanaan-perkuliahan-hybrid-semester-genap-ta-2021-2022/ untuk info lebih lanjut</template>
+                <template> Untuk informasi lebih lengkap mengenai perkuliahan hybrid silahkan akses ke link https://baa.telkomuniversity.ac.id/pelaksanaan-perkuliahan-hybrid-semester-genap-ta-2021-2022/ untuk info lebih lanjut</template>
             </category>
         
                 <category>
@@ -2501,7 +2501,7 @@
                 
             <category>
                 <pattern>Informasi nilai akademik</pattern>
-                <template>Silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Nilai > KHS > Lihat nilai atau lihat nilai semester</template>
+                <template>Untuk mengetahui nilai anda silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Nilai > KHS > Lihat Nilai atau Lihat Nilai Semester</template>
             </category>
         
                 <category>
@@ -2569,7 +2569,7 @@
                 
             <category>
                 <pattern>Informasi Jadwal Masa registrasi</pattern>
-                <template>Silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Registrasi > Jadwal > Kalender Akademik</template>
+                <template>Informasi masa registrasi bisa diakses di https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Registrasi > Jadwal > Kalender Akademik</template>
             </category>
         
                 <category>
@@ -3106,7 +3106,7 @@
                 
             <category>
                 <pattern>Informasi pengajuan cuti akademik</pattern>
-                <template>Silahkan akses ke https://baa.telkomuniversity.ac.id/pengajuan-cuti-akademik/ untuk info lebih lanjut</template>
+                <template>Seluruh informasi mengenai cuti silahkan akses ke https://baa.telkomuniversity.ac.id/pengajuan-cuti-akademik/ untuk informasi lebih lanjut</template>
             </category>
         
                 <category>
@@ -3202,7 +3202,7 @@
                 
             <category>
                 <pattern>Informasi TAK</pattern>
-                <template> Silahkan ke  https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Nilai > KHS > Lihat Ekivalensi > Beranda</template>
+                <template> Untuk mengetahui informasi TAK silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO> TAK > Beranda</template>
             </category>
         
                 <category>
@@ -3221,7 +3221,7 @@
                 
             <category>
                 <pattern>Info Pengajuan TAK</pattern>
-                <template> Silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > TAK > Input TAK</template>
+                <template>Untuk melakukan pengajuan tak silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > TAK > Input TAK</template>
             </category>
         
                 <category>
@@ -3315,7 +3315,7 @@
                 
             <category>
                 <pattern>Informasi Program Studi</pattern>
-                <template> Silahkan akses ke https://smb.telkomuniversity.ac.id/program-studi/ untuk info lebih lanjut</template>
+                <template> Untuk mendapatkan informasi mengenai program studi yang anda butuhkan silahkan akses ke https://smb.telkomuniversity.ac.id/program-studi/</template>
             </category>
         
                 <category>
@@ -3523,7 +3523,7 @@
                 
             <category>
                 <pattern>Informasi Biaya Pendidikan</pattern>
-                <template> Silahkan akses ke https://smb.telkomuniversity.ac.id/biaya-pendidikan/ untuk info lebih lanjut</template>
+                <template>Silahkan akses ke https://smb.telkomuniversity.ac.id/biaya-pendidikan/ untuk informasi mengenai biaya pendidikan lebih lanjut</template>
             </category>
         
                 <category>
@@ -3577,7 +3577,7 @@
                 
             <category>
                 <pattern>Informasi Kelas Internasional</pattern>
-                <template> Silahkan akses ke https://smb.telkomuniversity.ac.id/kelas-internasional/ untuk info lebih lanjut</template>
+                <template> Silahkan akses ke https://smb.telkomuniversity.ac.id/kelas-internasional/ untuk informasi mengenai kelas internasional lebih lanjut</template>
             </category>
         
                 <category>
@@ -3799,7 +3799,7 @@
                 
             <category>
                 <pattern>Informasi pendaftaran mahasiswa</pattern>
-                <template> Silahkan akses ke https://smb.telkomuniversity.ac.id/petunjuk-pendaftaran/ untuk info lebih lanjut</template>
+                <template> Untuk mendapatkan informasi mengenai pendaftaran mahasiswa baru anda bisa akses ke https://smb.telkomuniversity.ac.id/petunjuk-pendaftaran/ untuk informasi lebih lanjut</template>
             </category>
         
                 <category>
@@ -3903,7 +3903,7 @@
                      
             <category>
                 <pattern>Informasi Asrama Telkom</pattern>
-                <template> Silahkan akses ke https://dormitory.telkomuniversity.ac.id/ untuk info lebih lanjut</template>
+                <template> Silahkan akses ke https://dormitory.telkomuniversity.ac.id/ untuk informasi mengenai asrama Universits Telkom lebih lanjut</template>
             </category>
         
                 <category>
@@ -4007,7 +4007,7 @@
                     
             <category>
                 <pattern>Virtual Tour Telkom</pattern>
-                <template> Silahkan akses ke https://tour.telkomuniversity.ac.id/ untuk info lebih lanjut </template>
+                <template> Informasi mengenai Virtual Tour dapat anda akses melalui https://tour.telkomuniversity.ac.id/</template>
             </category>
         
                 <category>
@@ -4033,7 +4033,7 @@
 
                  <category>
                 <pattern>Informasi Jadwal Ujian Susulan</pattern>
-                <template> Silahkan akses ke https://see.telkomuniversity.ac.id/pengumuman-2020/#1589609773094-f5306717-037d untuk info lebih lanjut</template>
+                <template>Untuk mengetahui Jadwal Ujian Susulan silahkan akses ke https://see.telkomuniversity.ac.id/pengumuman-2020/#1589609773094-f5306717-037d untuk informasi lebih lanjut</template>
             </category>
         
                 <category>
@@ -4213,7 +4213,7 @@
 
                   <category>
                 <pattern>Informasi Ruangan</pattern>
-                <template>Silahkan akses ke https://igracias.telkomuniversity.ac.id >  Login menggunakan akun SSO > Registrasi > Jadwal > Jadwal Ujian Mahasiswa</template>
+                <template>Untuk mengetahui informasi ruangan yang anda inginkan silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Registrasi > Jadwal > Jadwal Mahasiswa</template>
             </category>
         
                 <category>
@@ -4948,7 +4948,7 @@
                 
                 <category>
                 <pattern>Informasi Beasiswa</pattern>
-                <template> Silahkan akses ke  https://smb.telkomuniversity.ac.id/beasiswa/ untuk info lebih lanjut</template>
+                <template> Untuk seluruh informasi mengenai beasiswa silahkan anda akses di https://smb.telkomuniversity.ac.id/beasiswa/ dan dapatkan informasi yang lebih lanjut</template>
             </category>
         
                 <category>
@@ -5008,7 +5008,7 @@
                 </category>
                   <category>
                 <pattern>Informasi Kalendar Akademik</pattern>
-                <template> Silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Registrasi > Jadwal > Kalender Akademik</template>
+                <template> Kalendar Akademik bisa anda akses di https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Registrasi > Jadwal > Kalender Akademik </template>
             </category>
         
                 <category>
@@ -5090,7 +5090,7 @@
                 
                  <category>
                 <pattern>Informasi verifikasi TAK</pattern>
-                <template> Silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > TAK > Verifikasi TAK</template>
+                <template> Untuk memverikasi TAK anda silahkan akses ke https://igracias.telkomunHiversity.ac.id > Login menggunakan akun SSO > TAK > Verifikasi TAK</template>
             </category>
         
                 <category>
@@ -5109,7 +5109,7 @@
                 
                   <category>
                 <pattern>Informasi Daftar EPRT</pattern>
-                <template> Silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Pusat Bahasa > Registrasi Layanan > Pendaftaran</template>
+                <template> Anda bisa melakukan pendaftaran EPRT di https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Pusat Bahasa > Registrasi Layanan > Pendaftaran</template>
             </category>
         
                 <category>
@@ -5275,7 +5275,7 @@
 
                 <category>
                 <pattern>Informasi cek data pendaftaran eprt</pattern>
-                <template> Silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Pusat Bahasa > Registrasi Layanan > Data Pendaftaran</template>
+                <template>Untuk melakukan cek data pendaftaran silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Pusat Bahasa > Registrasi Layanan > Data Pendaftaran</template>
             </category>
         
                 <category>
@@ -5476,7 +5476,7 @@
                 
                  <category>
                 <pattern>informasi cek skor eprt</pattern>
-                <template> Silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Pusat Bahasa > Skor Tes Bahasa > Nilai Tes Bahasa</template>
+                <template> Untuk mengetahui nilai EPRT anda silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Pusat Bahasa > Skor Tes Bahasa > Nilai Tes Bahasa</template>
             </category>
         
                 <category>
@@ -6021,7 +6021,7 @@
                 
             <category>
                 <pattern>informasi input nilai tes bahasa dari instansi luar</pattern>
-                <template> Silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Pusat Bahasa > Skor Tes Bahasa > Input Nilai dari Instansi Luar</template>
+                <template> Silahkan Input nilai tes bahasa dari instansi luar melalui https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Pusat Bahasa > Skor Tes Bahasa > Input Nilai dari Instansi Luar</template>
             </category>
         
                 <category>
@@ -7531,7 +7531,7 @@
                 
                  <category>
                 <pattern>informasi seleksi mahasiswa</pattern>
-                <template> Silahkan akses ke https://smb.telkomuniversity.ac.id/jalur-seleksi/ untuk informasi lebih lanjut</template>
+                <template>Silahkan akses ke https://smb.telkomuniversity.ac.id/jalur-seleksi/ untuk informasi mengenai seleksi mahasiswa yang lebih lanjut</template>
             </category>
         
                 <category>
@@ -9706,7 +9706,7 @@
 
                   <category>
                 <pattern>informasi seleksi penerimaan mahasiswa</pattern>
-                <template> Silahkan akses ke https://smb.telkomuniversity.ac.id/jalur-seleksi/ untuk informasi lebih lanjut</template>
+                <template> Silahkan akses ke https://smb.telkomuniversity.ac.id/jalur-seleksi/ untuk informasi mengenai seleksi mahasiswa yang lebih lanjut</template>
             </category>
         
                 <category>
@@ -14068,9 +14068,9 @@
                     </template>
                 </category>
 
-  <category>
+            <category>
                 <pattern>Informasi pengajuan jadwal Ujian Susulan</pattern>
-                <template> Silahkan akses ke https://see.telkomuniversity.ac.id/pengumuman-2020/#1589609773094-f5306717-037d untuk informasi lebih lanjut</template>
+                <template> Untuk melakukan pengajuan ujian susulan silahkan akses ke https://see.telkomuniversity.ac.id/pengumuman-2020/#1589609773094-f5306717-037d untuk informasi lebih lanjut</template>
             </category>
         
                 <category>
