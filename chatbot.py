@@ -1,7 +1,8 @@
-#!/usr/bin/python3
 import os
 import aiml
-
+import time
+import re
+time.clock = time.time
 BRAIN_FILE = "brain.dump"
 
 k = aiml.Kernel()
@@ -20,7 +21,8 @@ if os.path.exists(BRAIN_FILE):
 
 def response_question(question):
     try:
-        response = k.respond(question)
+        question_clean = re.sub(r'[^\w\s]', '', question)
+        response = k.respond(question_clean)
         return response
     except:
         return "Pertanyaan tidak ditemukan"

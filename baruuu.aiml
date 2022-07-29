@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <aiml version="2.0">
 
@@ -3973,7 +3973,7 @@
                 
             <category>
                 <pattern>cetak </pattern>
-                <template>Silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Registrasi > Jadwal > Jadwal Ujian Mahasiswa</template>
+                <template>Silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Registrasi > Jadwal > Jadwal Ujian Mahasiswa, untuk melakukan cetak kartu ujian anda</template>
             </category>
 
                <category>
@@ -5542,7 +5542,7 @@
                 
             <category>
                 <pattern>SKS</pattern>
-                <template>Silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Nilai > KHS > Lihat Ekivalensi</template>
+                <template>Silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Nilai > KHS > Lihat Ekivalensi, untuk melihat total sks</template>
             </category>
         
                 <category>

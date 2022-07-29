@@ -4406,7 +4406,7 @@
                 </category>
 <category>
                 <pattern>cetak kartu ujian uts </pattern>
-                <template> Silahkan akses ke https://igracias.telkomuniversity.ac.id >  Login menggunakan akun SSO > Registrasi > Jadwal > Jadwal Ujian Mahasiswa</template>
+                <template> Silahkan akses ke https://igracias.telkomuniversity.ac.id >  Login menggunakan akun SSO > Registrasi > Jadwal > Jadwal Ujian Mahasiswa, untuk melakukan cetak kartu ujian anda.</template>
             </category>
         
                 <category>
@@ -4537,7 +4537,8 @@
                 
                  <category>
                 <pattern>SKS Mata Kuliah per semester</pattern>
-                <template> Silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Nilai > KHS > Lihat Ekivalensi</template>
+                <template> Silahkan akses ke https://igracias.telkomuniversity.ac.id > Login menggunakan akun SSO > Nilai > KHS > Lihat Ekivalensi, untuk melihat total sks
+                </template>
             </category>
         
                 <category>
